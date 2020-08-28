@@ -29,8 +29,11 @@ Test.xbf
 UWP_K3.xr.xml
 Views\Financial.xbf
 Views\Food.xbf
+Views\MainBook.xbf
+Views\MainCookbook.xbf
 Views\MainFoodFina.xbf
 Views\MainGoNut.xbf
 Views\MainPage.xbf
+Views\MainPageAdaptiveTriggers.xbf
 Views\MainStudent.xbf
 Properties\Default.rd.xml

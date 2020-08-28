@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-08-22T04:51:06.267</Modified>
+      <Modified>2020-08-22T14:18:31.132</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\UWP_K3.exe">
       <PackagePath>entrypoint\UWP_K3.exe</PackagePath>
-      <Modified>2020-08-22T04:51:05.772</Modified>
+      <Modified>2020-08-22T14:18:30.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -142,55 +142,67 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\UWP_K3.xr.xml">
       <PackagePath>UWP_K3.xr.xml</PackagePath>
-      <Modified>2020-08-22T04:50:13.821</Modified>
+      <Modified>2020-08-22T14:18:29.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-08-22T04:51:05.534</Modified>
+      <Modified>2020-08-22T14:18:29.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\CoffeePage.xbf">
       <PackagePath>CoffeePage.xbf</PackagePath>
-      <Modified>2020-08-22T04:51:05.534</Modified>
+      <Modified>2020-08-22T14:18:29.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\CompletePage.xbf">
       <PackagePath>CompletePage.xbf</PackagePath>
-      <Modified>2020-08-22T04:51:05.534</Modified>
+      <Modified>2020-08-22T14:18:29.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\DonutPage.xbf">
       <PackagePath>DonutPage.xbf</PackagePath>
-      <Modified>2020-08-22T04:51:05.535</Modified>
+      <Modified>2020-08-22T14:18:29.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\SchedulePage.xbf">
       <PackagePath>SchedulePage.xbf</PackagePath>
-      <Modified>2020-08-22T04:51:05.535</Modified>
+      <Modified>2020-08-22T14:18:29.820</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Test.xbf">
       <PackagePath>Test.xbf</PackagePath>
-      <Modified>2020-08-22T04:51:05.535</Modified>
+      <Modified>2020-08-22T14:18:29.820</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\Financial.xbf">
       <PackagePath>Views\Financial.xbf</PackagePath>
-      <Modified>2020-08-22T04:51:05.535</Modified>
+      <Modified>2020-08-22T14:18:29.820</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\Food.xbf">
       <PackagePath>Views\Food.xbf</PackagePath>
-      <Modified>2020-08-22T04:51:05.535</Modified>
+      <Modified>2020-08-22T14:18:29.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainBook.xbf">
+      <PackagePath>Views\MainBook.xbf</PackagePath>
+      <Modified>2020-08-22T14:18:29.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainCookbook.xbf">
+      <PackagePath>Views\MainCookbook.xbf</PackagePath>
+      <Modified>2020-08-22T14:18:29.796</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainFoodFina.xbf">
       <PackagePath>Views\MainFoodFina.xbf</PackagePath>
-      <Modified>2020-08-22T04:51:05.535</Modified>
+      <Modified>2020-08-22T14:18:29.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainGoNut.xbf">
       <PackagePath>Views\MainGoNut.xbf</PackagePath>
-      <Modified>2020-08-22T04:51:05.536</Modified>
+      <Modified>2020-08-22T14:18:29.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2020-08-22T04:51:05.536</Modified>
+      <Modified>2020-08-22T14:18:29.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainPageAdaptiveTriggers.xbf">
+      <PackagePath>Views\MainPageAdaptiveTriggers.xbf</PackagePath>
+      <Modified>2020-08-22T14:18:29.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainStudent.xbf">
       <PackagePath>Views\MainStudent.xbf</PackagePath>
-      <Modified>2020-08-22T04:51:05.536</Modified>
+      <Modified>2020-08-22T14:18:29.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -198,11 +210,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-08-22T04:50:14.907</Modified>
+      <Modified>2020-08-22T14:13:38.292</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Core\UWP_K3.exe">
       <PackagePath>UWP_K3.exe</PackagePath>
-      <Modified>2020-08-22T04:51:06.261</Modified>
+      <Modified>2020-08-22T14:18:31.124</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

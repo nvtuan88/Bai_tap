@@ -53,13 +53,13 @@
                 <ListBox SelectionMode="Single" SelectionChanged="ListBox_SelectionChanged">
                     <ListBoxItem Name="Financial">
                         <StackPanel Orientation="Horizontal">
-                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="=&#xE80F;"/>
+                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="&#xE80F;"/>
                             <TextBlock Text="Financial" FontSize="24"/>
                         </StackPanel>
                     </ListBoxItem>
                     <ListBoxItem Name="Food">
                         <StackPanel Orientation="Horizontal">
-                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="=&#xE1CE;"/>
+                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="&#xE1CE;"/>
                             <TextBlock Text="Food" FontSize="24"/>
                         </StackPanel>
                     </ListBoxItem>

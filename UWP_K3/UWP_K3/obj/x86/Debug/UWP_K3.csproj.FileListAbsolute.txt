@@ -1,4 +1,3 @@
-C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\UWP_K3.csprojAssemblyReference.cache
 C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\App.g.i.cs
 C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\App.g.cs
 C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainPage.g.i.cs
@@ -93,3 +92,18 @@ C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\CompletePage.xbf
 C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\DonutPage.xbf
 C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\SchedulePage.xbf
 C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainGoNut.xbf
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainPageAdaptiveTriggers.xbf
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainPageAdaptiveTriggers.g.i.cs
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainPageAdaptiveTriggers.g.cs
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainPageAdaptiveTriggers.xaml
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainPageAdaptiveTriggers.xbf
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainCookbook.xbf
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainCookbook.g.i.cs
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainCookbook.g.cs
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainCookbook.xaml
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainCookbook.xbf
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainBook.g.i.cs
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainBook.g.cs
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainBook.xaml
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\obj\x86\Debug\Views\MainBook.xbf
+C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainBook.xbf

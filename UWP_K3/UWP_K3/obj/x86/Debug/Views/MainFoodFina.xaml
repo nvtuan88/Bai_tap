@@ -53,13 +53,13 @@
                 <ListBox x:ConnectionId='3' SelectionMode="Single"                                            >
                     <ListBoxItem x:ConnectionId='4' Name="Financial">
                         <StackPanel Orientation="Horizontal">
-                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="=&#xE80F;"/>
+                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="&#xE80F;"/>
                             <TextBlock Text="Financial" FontSize="24"/>
                         </StackPanel>
                     </ListBoxItem>
                     <ListBoxItem x:ConnectionId='5' Name="Food">
                         <StackPanel Orientation="Horizontal">
-                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="=&#xE1CE;"/>
+                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="&#xE1CE;"/>
                             <TextBlock Text="Food" FontSize="24"/>
                         </StackPanel>
                     </ListBoxItem>

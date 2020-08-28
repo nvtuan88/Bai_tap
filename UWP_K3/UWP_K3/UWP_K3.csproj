@@ -129,6 +129,8 @@
       <DependentUpon>DonutPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Entity\Student.cs" />
+    <Compile Include="Models\Book.cs" />
+    <Compile Include="Models\BookManager.cs" />
     <Compile Include="Models\StudenItem.cs" />
     <Compile Include="SchedulePage.xaml.cs">
       <DependentUpon>SchedulePage.xaml</DependentUpon>
@@ -143,6 +145,12 @@
     <Compile Include="Views\Food.xaml.cs">
       <DependentUpon>Food.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\MainBook.xaml.cs">
+      <DependentUpon>MainBook.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MainCookbook.xaml.cs">
+      <DependentUpon>MainCookbook.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\MainFoodFina.xaml.cs">
       <DependentUpon>MainFoodFina.xaml</DependentUpon>
     </Compile>
@@ -155,6 +163,9 @@
     <Compile Include="Models\TodoItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\MainPageViewModel.cs" />
+    <Compile Include="Views\MainPageAdaptiveTriggers.xaml.cs">
+      <DependentUpon>MainPageAdaptiveTriggers.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\MainStudent.xaml.cs">
       <DependentUpon>MainStudent.xaml</DependentUpon>
     </Compile>
@@ -221,6 +232,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Views\MainBook.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\MainCookbook.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\MainFoodFina.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -232,6 +251,10 @@
     <Page Include="Views\MainPage.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\MainPageAdaptiveTriggers.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Views\MainStudent.xaml">
       <SubType>Designer</SubType>

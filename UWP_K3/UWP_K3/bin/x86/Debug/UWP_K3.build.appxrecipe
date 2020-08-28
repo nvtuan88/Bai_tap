@@ -133,6 +133,12 @@
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\Food.xbf">
       <PackagePath>Views\Food.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainBook.xbf">
+      <PackagePath>Views\MainBook.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainCookbook.xbf">
+      <PackagePath>Views\MainCookbook.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainFoodFina.xbf">
       <PackagePath>Views\MainFoodFina.xbf</PackagePath>
     </AppxPackagedFile>
@@ -141,6 +147,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainPageAdaptiveTriggers.xbf">
+      <PackagePath>Views\MainPageAdaptiveTriggers.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP_K3\UWP_K3\bin\x86\Debug\Views\MainStudent.xbf">
       <PackagePath>Views\MainStudent.xbf</PackagePath>
