@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<h1>HelloWorld Controller</h1>
+
+<ul>
+    @for (int i = 0; i < ViewBag.Time; i++)
+    {
+        <li>@ViewBag.Name</li>
+    }
+</ul>
