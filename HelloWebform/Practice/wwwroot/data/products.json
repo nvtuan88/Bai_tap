@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Id": "01",
+    "Name": "Điện thoại Samsung Galaxy Note 10+",
+    "Price": "100$",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/206176/samsung-galaxy-note-10-plus-171220-101247-400x400.jpg"
+  },
+  {
+    "Id": "02",
+    "Name": "Điện thoại Vsmart Aris",
+    "Price": "90$",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/228530/vsmart-aris-182020-122018-400x400.jpg"
+  },
+  {
+    "Id": "03",
+    "Name": "Điện thoại iPhone 11 Pro Max 64GB",
+    "Price": "120$",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/200533/iphone-11-pro-max-black-400x460.png"
+  },
+  {
+    "Id": "04",
+    "Name": "Điện thoại iPhone 11 64GB",
+    "Price": "105$",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-red-2-400x460-400x460.png"
+  },
+  {
+    "Id": "05",
+    "Name": "Laptop Lenovo IdeaPad Slim 3 15IIL05",
+    "Price": "200$",
+    "img": "https://cdn.tgdd.vn/Products/Images/44/222649/lenovo-ideapad-3-15iil05-i5-81we003qvn-222649-2-600x600.jpg"
+  },
+  {
+    "Id": "06",
+    "Name": "Máy tính bảng iPad Mini 7.9 inch Wifi Cellular 64GB",
+    "Price": "150$",
+    "img": "https://cdn.tgdd.vn/Products/Images/522/202820/ipad-mini-79-inch-wifi-cellular-64gb-2019-1-400x460.png"
+  },
+  {
+    "Id": "07",
+    "Name": "Máy tính bảng Lenovo Tab E10 TB-X104L Đen",
+    "Price": "120$",
+    "img": "https://cdn.tgdd.vn/Products/Images/522/200691/lenovo-tab-e10-tb-x104l-den-400x460.png"
+  }
+]
