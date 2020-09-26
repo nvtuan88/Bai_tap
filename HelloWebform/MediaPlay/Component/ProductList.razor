@@ -1,0 +1,116 @@
+﻿@using MediaPlay.Models
+@using MediaPlay.Services
+@inject JsonFileProductService ProductService
+@using Microsoft.AspNetCore.Components.Web
+
+<div class="card-columns">
+    @foreach (var product in ProductService.GetProducts())
+    {
+        <div class="card">
+
+            <div class="card-img" style="background-image:url('@product.Image');"></div>
+            <div class="card-body">
+                <h4 class="card-title">@product.Title</h4>
+            </div>
+            <div class="card-footer">
+                <button @onclick="(e => SelectProduct(product.Id))" type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">More Info</button>
+            </div>
+
+        </div>
+
+    }
+</div>
+
+@if (selectedProduct != null)
+{
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+
+                    <h4 class="modal-title">@selectedProduct.Title</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+
+                <div class="modal-body">
+                    <div class="card-img" style="background-image:url('@selectedProduct.Image')"></div>
+                    <div class="card">
+                        <div class="card-body">
+                            <p class="card-text">@selectedProduct.Description</p>
+                            <a href="@selectedProduct.Url" target="_blank" class="btn btn-primary">Xem Phim</a>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card-footer">
+                    @if (voteCount == 0)
+                    {
+                        <span>Be the first to vote!</span>
+                    }
+                    else
+                    {
+                        <span>@voteCount @voteLabel</span>
+                    }
+
+                    @for (int i = 1; i < 6; i++)
+                    {
+                        var currentStar = i;
+                        if (i < currentRating)
+                        {
+                            <span class="fa fa-star checked" @onclick="(e => SubmitRating(currentStar))"></span>
+
+                        }
+                        else
+                        {
+                            <span class="fa fa-star" @onclick="(e => SubmitRating(currentStar))"></span>
+                        }
+                    }
+                </div>
+            </div>
+
+        </div>
+    </div>
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+@code {
+    Product selectedProduct;
+    string selectedProductId;
+
+    void SelectProduct(string productId)
+    {
+        selectedProductId = productId;
+        selectedProduct = ProductService.GetProducts().First(e => e.Id == productId);
+        GetCurrentRating();
+    }
+    int currentRating = 0;
+    int voteCount = 0;
+    string voteLabel;
+
+    void GetCurrentRating()
+    {
+        if (selectedProduct.Rating == null)
+        {
+            currentRating = 0;
+            voteCount = 0;
+        }
+        else
+        {
+            voteCount = selectedProduct.Rating.Count();
+            voteLabel = voteCount > 1 ? "Votes" : "Vote";
+            currentRating = selectedProduct.Rating.Sum() / voteCount;
+        }
+        System.Console.WriteLine($"Current rating for {selectedProduct.Id}: {currentRating}");
+    }
+
+    void SubmitRating(int rating)
+    {
+        System.Console.WriteLine($"Rating received for {selectedProduct.Id} : {currentRating}");
+        ProductService.AddRating(selectedProductId, rating);
+        SelectProduct(selectedProductId);
+    }
+}

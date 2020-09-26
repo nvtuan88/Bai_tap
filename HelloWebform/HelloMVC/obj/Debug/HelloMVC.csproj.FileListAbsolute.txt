@@ -51,6 +51,8 @@ C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\roslyn\vbc.rsp
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\roslyn\VBCSCompiler.exe
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\Antlr3.Runtime.dll
+C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\EntityFramework.dll
+C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\EntityFramework.SqlServer.dll
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\System.Web.WebPages.Deploy
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\System.Web.WebPages.dll
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\System.Web.WebPages.Razor.dll
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\WebGrease.dll
+C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\EntityFramework.xml
+C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\EntityFramework.SqlServer.xml
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\System.Web.Helpers.xml
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\System.Web.Mvc.xml
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\System.Web.Optimization.xml
@@ -72,8 +76,8 @@ C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\System.Web.WebPages.Razor.
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\Newtonsoft.Json.xml
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\Antlr3.Runtime.pdb
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Admin\source\repos\HelloWebform\HelloMVC\obj\Debug\HelloMVC.csprojAssemblyReference.cache
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\obj\Debug\HelloMVC.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\obj\Debug\HelloMVC.csproj.CopyComplete
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\obj\Debug\HelloMVC.dll
 C:\Users\Admin\source\repos\HelloWebform\HelloMVC\obj\Debug\HelloMVC.pdb
+C:\Users\Admin\source\repos\HelloWebform\HelloMVC\obj\Debug\HelloMVC.csprojAssemblyReference.cache
